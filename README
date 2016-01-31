@@ -1,0 +1,4 @@
+javac NewJFrame.java
+java NewJFrame
+
+Start!
